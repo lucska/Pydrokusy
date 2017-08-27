@@ -1,4 +1,5 @@
-#counting of GC content in sequences of DNA, several
+#counting of GC content in sequences of DNA, severalar DNA sequences in .txt file
+#Rosalind task "Computing GC_content" http://rosalind.info/problems/gc/
 
 def input_to_input_seq (input_sequence):
     "change to xx.txt format (in form of fasta) to input_seq to count GC_content"
